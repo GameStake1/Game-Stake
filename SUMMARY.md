@@ -1,12 +1,12 @@
 # Table of contents
 
-* [🎮 Game Stake](README.md)
+* [🌪 Game Stake](README.md)
 
 ## Overview
 
-* [▪ Opportunity](overview/opportunity.md)
-* [▪ Our mission](overview/our-mission.md)
-* [Fairlaunch](overview/fairlaunch.md)
+* [🎮 Opportunity](overview/opportunity.md)
+* [🎮 Our mission](overview/our-mission.md)
+* [🎮 Fairlaunch](overview/fairlaunch.md)
 
 ## Ecosystem
 
