@@ -3,6 +3,6 @@ cover: ../.gitbook/assets/capa.jpg
 coverY: 0
 ---
 
-# Fairlaunch
+# 🎮 Fairlaunch
 
 {% embed url="https://www.pinksale.finance/" %}

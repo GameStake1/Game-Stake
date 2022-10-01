@@ -13,11 +13,12 @@
 * [▪ Decentralized Launch](ecosystem/decentralized-launch.md)
 * [▪ Play-To-Earn](ecosystem/play-to-earn.md)
 * [▪ Staking](ecosystem/staking.md)
+* [▪ Functionality](ecosystem/functionality.md)
 * [▪ Launchpad](ecosystem/launchpad.md)
 
 ## TOKENOMICS
 
-* [🪙 Token $GAME](tokenomics/token-usdgame.md)
+* [🪙 Token $GSD](tokenomics/token-usdgsd.md)
 * [🔥 Fees](tokenomics/fees.md)
 * [🔥 Token Governance](tokenomics/token-governance.md)
 * [🔥 Roadmap](tokenomics/roadmap.md)
