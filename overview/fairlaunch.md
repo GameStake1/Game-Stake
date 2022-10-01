@@ -5,3 +5,4 @@ coverY: 0
 
 # Fairlaunch
 
+{% embed url="https://www.pinksale.finance/" %}
