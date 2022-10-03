@@ -12,8 +12,8 @@
 
 * [▪ Decentralized Launch](ecosystem/decentralized-launch.md)
 * [▪ Play-To-Earn](ecosystem/play-to-earn.md)
-* [▪ Staking](ecosystem/staking.md)
-* [▪ Functionality](ecosystem/functionality.md)
+* [▪ Staking](ecosystem/staking/README.md)
+  * [▪ Functionality](ecosystem/staking/functionality.md)
 * [▪ Launchpad](ecosystem/launchpad.md)
 
 ## TOKENOMICS
