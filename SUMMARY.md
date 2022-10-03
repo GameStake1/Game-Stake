@@ -11,7 +11,6 @@
   * [▪ Web 3.0](overview/concepts/web-3.0.md)
   * [▪ Decentralized Finances (DeFi)](overview/concepts/decentralized-finances-defi.md)
   * [▪ Metaverse](overview/concepts/metaverse.md)
-  * [▪ Tokenization](overview/concepts/tokenization.md)
   * [▪ Proof of Stake (PoS)](overview/concepts/proof-of-stake-pos.md)
   * [▪ Crypto as a service](overview/concepts/crypto-as-a-service.md)
 * [🎮 Our mission](overview/our-mission.md)
