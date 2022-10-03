@@ -16,3 +16,5 @@ Staking
 ## Staking in Game Stake
 
 ****:clap:**Bet and win! Monetizes your tokens you receive by taking lottery gradually to participate in the next game projects, buying at the initial price.**
+
+{% embed url="https://app.stake-gaming.com/" %}

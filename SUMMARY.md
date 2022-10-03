@@ -27,7 +27,7 @@
 
 ## TOKENOMICS
 
-* [🪙 Token $GSD](tokenomics/token-usdgsd.md)
+* [🪙 Token $GSK](tokenomics/token-usdgsk.md)
 * [🔥 Fees](tokenomics/fees.md)
 * [🔥 Token Governance](tokenomics/token-governance.md)
 * [🔥 Roadmap](tokenomics/roadmap.md)
