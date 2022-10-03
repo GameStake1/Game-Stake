@@ -22,5 +22,3 @@ We will have the application of the main parities in the BNB and BUSD segment, i
 | 30 DAYS LOCKED |  APY 4000% |
 | 60 DAYS LOCKED |  APY 8000% |
 
-**GSK - BNB -BUSD**&#x20;
-
