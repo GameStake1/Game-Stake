@@ -15,4 +15,3 @@ Basically, the metaverse would be a place where people from all over the world c
 
 To get even closer to this concept, the company Facebook changed its name to "Meta" in 2021. This shows that, increasingly, the world that existed only in science fiction movies is about to become real!
 
-This article was written by Bitso, the international cryptocurrency exchange on which you can buy, store and sell your crypto assets.

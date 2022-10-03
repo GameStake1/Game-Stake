@@ -11,7 +11,7 @@ Proof of Stake (PoS)
 
 While we are on the subject of blockchain, how about talking about an update that is already present in the largest platforms in the crypto world, such as Ethereum, Cardano and Polkadot?
 
-The Proof of Stake (PoS), or "proof of participation" in Portuguese, came to replace the Proof of Work (PoW), which is still used by Bitcoin, for example, and that gives the name of "miners" to those who unravel the mathematical problems developed by the blockchain.
+The Proof of Stake (PoS), or "proof of participation" ,came to replace the Proof of Work (PoW), which is still used by Bitcoin, for example, and that gives the name of "miners" to those who unravel the mathematical problems developed by the blockchain.
 
 However, for these "puzzles" to be unraveled, the person needed a state-of-the-art computer and a lot of electricity. Therefore, the expense in PoW was inconceivable.
 

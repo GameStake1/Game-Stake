@@ -13,4 +13,3 @@ Decentralized Finance (DeFi) is the automatic evolution of cryptocurrencies. Thr
 
 DeFi use smart contracts to function. Basically, they work like the products found in banks. However, you do not need a financial institution to perform them.
 
-The main blockchain to make DeFi is Ethereum.
