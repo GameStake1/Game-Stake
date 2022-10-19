@@ -36,6 +36,7 @@
 * [🛡 Safu Certificate](safu-kyc-audit/safu-certificate.md)
 * [🛡 KYC Certificate](safu-kyc-audit/kyc-certificate.md)
 * [🛡 Audit Certificate](safu-kyc-audit/audit-certificate.md)
+* [🛡 Contract Official](safu-kyc-audit/contract-official.md)
 
 ## Social Media
 
