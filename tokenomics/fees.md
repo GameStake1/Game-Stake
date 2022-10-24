@@ -5,7 +5,7 @@ coverY: 0
 
 # 🔥 Fees
 
-## Buy tax: 2% and Sell tax: 4%
+## Buy tax: 0% and Sell tax: 3%
 
 {% hint style="success" %}
 **Fees**
