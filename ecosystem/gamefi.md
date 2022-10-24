@@ -3,9 +3,9 @@ cover: ../.gitbook/assets/capa.jpg
 coverY: 0
 ---
 
-# GameFi
+# ▪ GameFi
 
-{% hint style="info" %}
+{% hint style="warning" %}
 GameFi
 {% endhint %}
 

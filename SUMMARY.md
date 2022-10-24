@@ -20,10 +20,10 @@
 ## Ecosystem
 
 * [▪ Decentralized Launch](ecosystem/decentralized-launch.md)
+* [▪ GameFi](ecosystem/gamefi.md)
 * [▪ Play-To-Earn](ecosystem/play-to-earn.md)
 * [▪ Staking](ecosystem/staking/README.md)
   * [▪ Functionality](ecosystem/staking/functionality.md)
-* [GameFi](ecosystem/gamefi.md)
 * [▪ Launchpad](ecosystem/launchpad.md)
 
 ## TOKENOMICS
