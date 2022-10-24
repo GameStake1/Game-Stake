@@ -25,14 +25,14 @@ any other information about some of the items listed can be obtained via the wik
 * [x] **Partners: 5%**
 * [x] **Unlocked: 10%**
 
-**Presale Start Time:**&#x20;
+**Presale Start Time: 2022.10.24  13:0 (UTC)**
 
-**Presale End Time:**&#x20;
+**Presale End Time:** **2022.10.27  13:0 (UTC)**
 
 **Listing On**: **PancakeSwap**
 
-**Tokens For Presale:**&#x20;
+**Tokens For Presale: 49.657.960**
 
-**Tokens For Liquidity:**&#x20;
+**Tokens For Liquidity: 29,198.880.48**
 
-**Soft Cap: 50 BNB**
+**Soft Cap: 30 BNB**
