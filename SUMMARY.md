@@ -4,8 +4,11 @@
 
 ## Overview
 
+* [🎮 Our mission](overview/our-mission.md)
+* [🎮 Fairlaunch](overview/fairlaunch.md)
 * [🎮 Concepts](overview/concepts/README.md)
   * [▪ Blockchains](overview/concepts/blockchains.md)
+  * [▪ GameFi](overview/concepts/gamefi.md)
   * [▪ Smart contracts](overview/concepts/smart-contracts.md)
   * [▪ Non-Fungible Tokens (NFT)](overview/concepts/non-fungible-tokens-nft.md)
   * [▪ Web 3.0](overview/concepts/web-3.0.md)
@@ -13,8 +16,6 @@
   * [▪ Metaverse](overview/concepts/metaverse.md)
   * [▪ Proof of Stake (PoS)](overview/concepts/proof-of-stake-pos.md)
   * [▪ Crypto as a service](overview/concepts/crypto-as-a-service.md)
-* [🎮 Our mission](overview/our-mission.md)
-* [🎮 Fairlaunch](overview/fairlaunch.md)
 
 ## Ecosystem
 
@@ -22,6 +23,7 @@
 * [▪ Play-To-Earn](ecosystem/play-to-earn.md)
 * [▪ Staking](ecosystem/staking/README.md)
   * [▪ Functionality](ecosystem/staking/functionality.md)
+* [GameFi](ecosystem/gamefi.md)
 * [▪ Launchpad](ecosystem/launchpad.md)
 
 ## TOKENOMICS
